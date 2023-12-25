@@ -1,0 +1,14 @@
+E:\Workspace\C#\CookieCookBookApp\CookieCookBook\bin\Debug\net8.0\CookieCookBook.exe
+E:\Workspace\C#\CookieCookBookApp\CookieCookBook\bin\Debug\net8.0\CookieCookBook.deps.json
+E:\Workspace\C#\CookieCookBookApp\CookieCookBook\bin\Debug\net8.0\CookieCookBook.runtimeconfig.json
+E:\Workspace\C#\CookieCookBookApp\CookieCookBook\bin\Debug\net8.0\CookieCookBook.dll
+E:\Workspace\C#\CookieCookBookApp\CookieCookBook\bin\Debug\net8.0\CookieCookBook.pdb
+E:\Workspace\C#\CookieCookBookApp\CookieCookBook\obj\Debug\net8.0\CookieCookBook.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\C#\CookieCookBookApp\CookieCookBook\obj\Debug\net8.0\CookieCookBook.AssemblyInfoInputs.cache
+E:\Workspace\C#\CookieCookBookApp\CookieCookBook\obj\Debug\net8.0\CookieCookBook.AssemblyInfo.cs
+E:\Workspace\C#\CookieCookBookApp\CookieCookBook\obj\Debug\net8.0\CookieCookBook.csproj.CoreCompileInputs.cache
+E:\Workspace\C#\CookieCookBookApp\CookieCookBook\obj\Debug\net8.0\CookieCookBook.dll
+E:\Workspace\C#\CookieCookBookApp\CookieCookBook\obj\Debug\net8.0\refint\CookieCookBook.dll
+E:\Workspace\C#\CookieCookBookApp\CookieCookBook\obj\Debug\net8.0\CookieCookBook.pdb
+E:\Workspace\C#\CookieCookBookApp\CookieCookBook\obj\Debug\net8.0\CookieCookBook.genruntimeconfig.cache
+E:\Workspace\C#\CookieCookBookApp\CookieCookBook\obj\Debug\net8.0\ref\CookieCookBook.dll
